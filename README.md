@@ -1,14 +1,12 @@
-# Project for SALE: 📚 RAG Anything: PDF, Docx, SQL or Whatever
+ 📚 RAG Anything: PDF, Docx, SQL or Whatever
 
-![path_to_your_image.png](https://github.com/snehitvaddi/RAG-Anything/blob/main/RAG-Anything.jpg)
+
 
 ## 🌟 Introduction
 
 Welcome to **RAG Anything**—your all-in-one AI-powered assistant for extracting insights from any source. Whether it's a PDF, Word document, or SQL database, this versatile tool is designed to understand your questions and provide precise, context-rich answers. 
 Ready to be deployed
-## 📧 Contact
 
-To Buy the project, please contact [v.snehith999@gmail.com](mailto:v.snehith999@gmail.com).
 
 ## 🚀 Key Features
 
